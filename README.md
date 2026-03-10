@@ -1,4 +1,4 @@
-# Oddworld-Munch-s-Oddysee-GBA-Autosplitter
+# Oddworld-Munch's-Oddysee-GBA-Autosplitter
 This autosplitter is designed for Oddworld: Munch's Oddysee (Game Boy Advance) when played using the **mGBA emulator**.
 It automatically:
 - Starts the timer when a new run begins

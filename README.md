@@ -1,5 +1,4 @@
 # Oddworld-Munch-s-Oddysee-GBA-Autosplitter
-Overview
 This autosplitter is designed for Oddworld: Munch's Oddysee (Game Boy Advance) when played using the **mGBA emulator**.
 It automatically:
 - Starts the timer when a new run begins
@@ -9,15 +8,13 @@ It automatically:
 
 The script reads game memory using the emu-help-v3 helper library.
 
-
-Requirements
+# Requirements
 
 This is designed to work on the mGBA emulator only at present. Other emulators will not work.
-Link is on the SRC page for this game
-https://www.speedrun.com/omogba/resources
+Link is on the SRC page for mGBA (https://www.speedrun.com/omogba/resources)
 
 **emu-help-v3** (https://github.com/Jujstme/emu-help-v3/raw/refs/heads/main/lib/Livesplit/emu-help-v3)
-**emu-help-v3** must be placed in the LiveSplit Components folder.
+ must be placed in the LiveSplit Components folder.
 
 Typical path:
 ```
